@@ -2,7 +2,7 @@
   <img src="https://section.cl/1.png" width="400" />
   </div>
 <div id="header" align="center">
-<img src="https://www.nicepng.com/png/full/124-1240056_neon-line-png.png" width="250" />
+<img src="https://www.nicepng.com/png/full/124-1240056_neon-line-png.png" width="450" />
 </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
@@ -49,3 +49,4 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
 - 📫 Puedes contactarme **javier.catalan@section.cl**
 - 😄 Como meta 2025  es crear [Section.cl] (https://section.cl/)
 - ⚡ Como dato curioso, tengo vocación hacia la docencia
+---

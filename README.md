@@ -1,5 +1,9 @@
 <div id="header" align="center">
   <img src="https://section.cl/1.png" width="400" />
+  </div>
+<div id="header" align="center">
+<img src="https://www.nicepng.com/png/full/124-1240056_neon-line-png.png" width="250" />
+</div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
   <h3 align="center">¡Saludos! Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
@@ -37,10 +41,7 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
  <a href="https://www.instagram.com/flash.jcatalan/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Instagram&up_color=yellow&down_message=Instagram&down_color=blue&logo=instagram&logoColor=TWITTER&label=%23JC&labelColor=Instagram&color=pink">
      </a>
-</div>
-<div id="header" align="center">
-<img src="https://www.nicepng.com/png/full/124-1240056_neon-line-png.png" width="250" />
-</div>
+
 ---
 ### Acerca de mí 👋
 - 🔭 Actualmente estoy trabajando en una empresa multinacional

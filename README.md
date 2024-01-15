@@ -39,7 +39,7 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
      </a>
 </div>
 <div id="header" align="center">
-<img src="https://www.mariadelolmo.es/wp-content/uploads/2018/03/LINEA-GRIS3.png" width="500" />
+<img src="https://www.nicepng.com/png/full/124-1240056_neon-line-png.png" width="500" />
 </div>
 
 ### Hi there 👋

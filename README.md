@@ -89,4 +89,6 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 </div>
 ---
 ### Acerca de mí 👋
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<div id="badges" align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  </a>

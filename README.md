@@ -1,5 +1,5 @@
-<div id="header" align="cebter">
-  <img src="https://section.cl/jc.png" width="500" />
+<div id="header" align="center">
+  <img src="https://section.cl/jc.png" width="400" />
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
   <h3 align="center">Como objetivo planteado a fines del 2023 fue comenzar profesionalmente y con mucha autodiciplica el camino del mundo de la programación. Por esta razón, pretento adquirir nuevos conocimientos, retomar los habitos de estudios para poder  darle fuerza a este portafolio, creando material de estudios  y proyectos desde lo más basico hasta ir superando día a día mis propios limites. 
@@ -34,8 +34,8 @@
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Instagram&up_color=yellow&down_message=Instagram&down_color=blue&logo=instagram&logoColor=TWITTER&label=%23JC&labelColor=Instagram&color=pink">
      </a>
 </div>
-<div id="header" align="cebter">
-<img src="https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg" width="300" />
+<div id="header" align="center">
+<img src="https://static.vecteezy.com/system/resources/previews/002/099/443/non_2x/programming-code-coding-or-hacker-background-programming-code-icon-made-with-binary-code-digital-binary-data-and-streaming-digital-code-vector.jpg" width="500" />
 </div>
 
 ### Hi there 👋

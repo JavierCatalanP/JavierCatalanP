@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5a6cf479-9601-47b3-9515-4b6656efa3ed)<div id="header" align="center">
   <img src="https://section.cl/1.png" width="400" />
   </div>
 <div id="header" align="center">
@@ -41,14 +41,13 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
  <a href="https://www.instagram.com/flash.jcatalan/">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Instagram&up_color=yellow&down_message=Instagram&down_color=blue&logo=instagram&logoColor=TWITTER&label=%23JC&labelColor=Instagram&color=pink">
      </a>
-
+</div>
 ---
 ### Acerca de mí 👋
-<div id="about">
-- 🔭 Actualmente estoy trabajando en una empresa multinacional
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/59c5f288-058e-412d-ae8f-934b46879225" width="18" /> Actualmente estoy aprendiendo Python 
-- 📫 Puedes contactarme **javier.catalan@section.cl**
-- 😄 Como meta 2025  es crear (Section.cl) [https://section.cl/]
-- ⚡ Como dato curioso, tengo vocación hacia la docencia
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" /> Actualmente estoy trabajando en una empresa multinacional
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/a8bff475-d3a6-4ea5-870c-91df6b2636e5" width="20" /> Actualmente estoy aprendiendo Python 
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" /> Puedes contactarme **javier.catalan@section.cl**
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" /> Como meta 2025  es crear (Section.cl) [https://section.cl/]
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/e8226e5c-8e1e-426d-8181-e865d5520a3c" width="20" /> Como dato curioso, tengo vocación hacia la docencia
 ---
-</div>
+

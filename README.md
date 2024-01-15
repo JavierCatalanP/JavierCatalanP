@@ -21,6 +21,14 @@
   <a href="https://replit.com/@JavierCatalan">
   <img alt="Replit" src="https://img.shields.io/website?url=https%3A%2F%2Freplit.com%2F%40JavierCatalan&up_message=Replit%20-%20My%20Repls%20&up_color=orange&down_message=My%20Repls&logo=replit&logoColor=replit">
     </a>
+   <a href="https://wa.me/968356005)">
+   <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjavier-ignacio-catalan-penaloza-21371255%2F%3ForiginalSubdomain%3Dcl&up_message=%23JC&up_color=blue&down_message=WhatsApp&down_color=green&logo=WhatsApp&logoColor=WhatsApp&label=%23JC">
+    </a>
+
+  <a href="https://www.linkedin.com/in/javier-ignacio-catalan-penaloza-21371255/?originalSubdomain=cl">
+    <img alt="LinkedIn" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjavier-ignacio-catalan-penaloza-21371255%2F%3ForiginalSubdomain%3Dcl&up_message=%23JC&up_color=blue&down_message=LinkedIn&down_color=blue&logo=LinkedIn&logoColor=LinkedIn&label=%23JC">
+     </a>
+    
 
 </div>
 

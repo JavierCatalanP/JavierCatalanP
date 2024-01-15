@@ -47,6 +47,6 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
 - 🔭 Actualmente estoy trabajando en una empresa multinacional
 - 🌱 Actualmente estoy aprendiendo Python 
 - 📫 Puedes contactarme **javier.catalan@section.cl**
-- 😄 Como meta 2025  es crear [Section.cl] (https://section.cl/)
+- 😄 Como meta 2025  es crear (Section.cl) [https://section.cl/]
 - ⚡ Como dato curioso, tengo vocación hacia la docencia
 ---

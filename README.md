@@ -2,7 +2,7 @@
   <img src="https://section.cl/1.png" width="400" />
   </div>
 <div id="header" align="center">
-<img src="https://www.nicepng.com/png/full/124-1240056_neon-line-png.png" width="450" />
+<img src="[https://www.nicepng.com/png/full/124-1240056_neon-line-png.pn](https://images.vexels.com/media/users/3/132476/isolated/preview/ee7ac6aaabc5ff5cede4e1ac3d4e30b1-divisor-de-puntos-de-linea-de-borde-pequeno.png" width="450" />
 </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
@@ -46,12 +46,12 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
 
 ---
 ### Acerca de mí 👋
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" />   Actualmente estoy trabajando en una empresa multinacional
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/a8bff475-d3a6-4ea5-870c-91df6b2636e5" width="20" />   Actualmente estoy aprendiendo Python 
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" />   Como meta 2025  será crear [SECTION.CL](https://section.cl/)
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/e8226e5c-8e1e-426d-8181-e865d5520a3c" width="20" />   Como dato curioso, tengo vocación hacia la docencia
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/42fb4ac0-3f1d-49ed-abaa-6baf08e4860e" width="20" />   Amante del deporte
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/7d4164a3-3ded-4c2c-bff4-b5260f374567" width="20" />   Equipo Favorito, Selección Chilena
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" />   Actualmente trabajo en una empresa multinacional en Chile.
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/a8bff475-d3a6-4ea5-870c-91df6b2636e5" width="20" />   Como meta 2024 inicie el camino de la programación.
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" />   Como meta 2025  será crear [SECTION.CL](https://section.cl/).
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/e8226e5c-8e1e-426d-8181-e865d5520a3c" width="20" />   Como dato curioso, tengo vocación hacia la docencia.
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/42fb4ac0-3f1d-49ed-abaa-6baf08e4860e" width="20" />   Amante del deporte.
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/7d4164a3-3ded-4c2c-bff4-b5260f374567" width="20" />   Equipo Favorito, Selección Chilena.
+- - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**.
 ---
 

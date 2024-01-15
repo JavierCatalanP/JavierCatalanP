@@ -16,6 +16,7 @@ Me apasiona la arquitectura y la ingeniería de software, buscando entender proc
 
 Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. <br/><br/>
 ✨¡Vamos por más - #JC !✨
+<br/>
   </h3>
 <div id="badges" align="center">
   <a href="https://twitter.com/Jc_Javier_c">

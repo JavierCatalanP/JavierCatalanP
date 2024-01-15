@@ -94,15 +94,13 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierCatalanP&show_icons=true&theme=radical)
 </br>
 
+![](https://github-contributor-stats.vercel.app/api?username=JavierCatalanP&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)
 </div> 
 
 ---
-### üîù Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JavierCatalanP&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 
 
 

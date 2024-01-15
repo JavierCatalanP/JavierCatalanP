@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="1000" />
-  </div>
-<p align="center">
-
 
 <div id="header" align="center">
   <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="1000" />

@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://www.twitch.tv/javiercatalanp">
-  <img alt="Twitch" src="https://img.shields.io/twitch/status/javiercatalanp">
+ <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Twitch&up_color=yellow&down_message=Twitch&down_color=blue&logo=Twitch&logoColor=Twitch&label=%23JC&labelColor=Twitch&color=purple">
   </a>
 
    <a href="https://discord.com/channels/1196281298101211226/1196281298680021233">

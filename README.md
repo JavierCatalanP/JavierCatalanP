@@ -28,7 +28,10 @@
   <a href="https://www.linkedin.com/in/javier-ignacio-catalan-penaloza-21371255/?originalSubdomain=cl">
     <img alt="LinkedIn" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjavier-ignacio-catalan-penaloza-21371255%2F%3ForiginalSubdomain%3Dcl&up_message=%23JC&up_color=blue&down_message=LinkedIn&down_color=blue&logo=LinkedIn&logoColor=LinkedIn&label=%23JC">
      </a>
-    
+
+ <a href="https://www.instagram.com/flash.jcatalan/">
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Instagram&up_color=yellow&down_message=Instagram&down_color=blue&logo=instagram&logoColor=TWITTER&label=%23JC&labelColor=Instagram&color=pink">
+     </a>
 
 </div>
 

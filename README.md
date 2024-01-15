@@ -1,4 +1,4 @@
-![image](https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/875df3e0-533a-40b9-ba03-d6e547066e8e)<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://section.cl/1.png" width="400" />
   </div>
 <div id="header" align="center">

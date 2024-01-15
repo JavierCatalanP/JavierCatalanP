@@ -65,13 +65,13 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+<img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/460319ff-adcb-4cf7-903d-5aa45ad6fd78" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 
 
 <h3> <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20" />Herramientas y Software que uso habitualmente:</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle.eps" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>

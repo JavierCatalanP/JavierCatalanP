@@ -35,7 +35,7 @@
      </a>
 </div>
 <div id="header" align="center">
-<img src="http://dentalmedicalsales.com/images/linea.png" width="500" />
+<img src="https://static.vecteezy.com/system/resources/previews/012/634/805/non_2x/art-deco-outline-stroke-in-golden-color-for-classy-and-luxury-style-premium-vintage-line-art-design-element-free-png.png" width="500" />
 </div>
 
 ### Hi there 👋

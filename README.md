@@ -2,9 +2,13 @@
   <img src="https://section.cl/1.png" width="400" />
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
-  <h3 align="center">Como objetivo planteado a fines del 2023 fue comenzar profesionalmente y con mucha autodiciplica el camino del mundo de la programación. Por esta razón, pretento adquirir nuevos conocimientos, retomar los habitos de estudios para poder  darle fuerza a este portafolio, creando material de estudios  y proyectos desde lo más basico hasta ir superando día a día mis propios limites. 
-    Soy apacionado por la arquitectura  y la ingeneria de software, entender los procesos, y poder contribuir con entregas de mejoras continuas en base logica de negocio y objetivos corporativos.     
-    Esperemos que *JavierCatalanP/JavierCatalanP* vaya tomando mucha fuerza ✨ #JC ✨ Esta aventura comenzo en Enero 2024.
+  <h3 align="center">¡Saludos! Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
+
+Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y fortalecer mi portafolio con material y proyectos desde lo más básico hasta superar mis límites cada día.
+
+Me apasiona la arquitectura y la ingeniería de software, buscando entender procesos y contribuir con mejoras continuas alineadas con la lógica de negocio y objetivos corporativos.
+
+Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨ ¡Vamos por más!
   </h3>
 <div id="badges" align="center">
   <a href="https://twitter.com/Jc_Javier_c">

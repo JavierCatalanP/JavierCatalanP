@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/875df3e0-533a-40b9-ba03-d6e547066e8e)<div id="header" align="center">
   <img src="https://section.cl/1.png" width="400" />
   </div>
 <div id="header" align="center">
@@ -12,7 +12,8 @@ Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y 
 
 Me apasiona la arquitectura y la ingeniería de software, buscando entender procesos y contribuir con mejoras continuas alineadas con la lógica de negocio y objetivos corporativos.
 
-Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨ ¡Vamos por más!
+Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨
+¡Vamos por más!
   </h3>
 <div id="badges" align="center">
   <a href="https://twitter.com/Jc_Javier_c">
@@ -50,5 +51,7 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" />   Como meta 2025  será crear [SECTION.CL](https://section.cl/)
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/e8226e5c-8e1e-426d-8181-e865d5520a3c" width="20" />   Como dato curioso, tengo vocación hacia la docencia
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/42fb4ac0-3f1d-49ed-abaa-6baf08e4860e" width="20" />   Amante del deporte
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/7d4164a3-3ded-4c2c-bff4-b5260f374567" width="20" />   Equipo Favorito, Selección Chilena
 ---
 

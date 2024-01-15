@@ -60,8 +60,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <div align="left">
 <h3> <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20" /> Lenguajes con los que he interactuado:</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS3" alt="CCS" width="50" height="50"/&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS3" alt="CCS3" width="50" height="50"/&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;

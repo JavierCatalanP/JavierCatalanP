@@ -94,9 +94,5 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)
-</br>
-
 </div> 
-</br>
----
 

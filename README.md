@@ -4,7 +4,7 @@
   </div>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/JavierCatalanP/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Iniciando%20el%20camino%20del%20desarrollador%20;Experiencia%20en%20Ingeneria%20de%20Software%20y%20mejoras%20continuas;Soy%20Javier%20Catalán,%20tengo20%3720%años%20&font=Fira%20Code&center=true&width=440&height=45&color=238636&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Iniciando%20el%20camino%20del%20desarrollo%20;Experiencia%20en%20Ingeneria%20de%20Software%20y%20mejoras%20continuas;Soy%20Javier%20Catalán,%20tengo20%3720%años%20&font=Fira%20Code&center=true&width=440&height=45&color=238636&Center&pause=1000&size=24" /></a>
 </p>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>

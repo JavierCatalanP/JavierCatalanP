@@ -35,7 +35,7 @@
      </a>
 </div>
 <div id="header" align="center">
-<img src="https://flyclipart.com/thumb2/lineas-930693.png" width="500" />
+<img src="http://dentalmedicalsales.com/images/linea.png" width="500" />
 </div>
 
 ### Hi there 👋

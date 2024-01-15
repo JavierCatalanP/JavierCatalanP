@@ -15,13 +15,13 @@
   </a>
 
    <a href="https://discord.com/channels/1196281298101211226/1196281298680021233">
-  <img alt="Discord" src="https://img.shields.io/discord/1196281298101211226?logo=discord&label=Canal%20Discord&labelColor=white&color=white">
+  <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Discord&up_color=purple&down_message=Discord&down_color=blue&logo=Discord&logoColor=Discord&label=%23JC&labelColor=Discord&color=blue">
       </a>
 
   <a href="https://replit.com/@JavierCatalan">
-  <img alt="Replit" src="https://img.shields.io/website?url=https%3A%2F%2Freplit.com%2F%40JavierCatalan&up_message=Replit%20-%20My%20Repls%20&up_color=orange&down_message=My%20Repls&logo=replit&logoColor=replit">
+ <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjavier-ignacio-catalan-penaloza-21371255%2F%3ForiginalSubdomain%3Dcl&up_message=%23JC&up_color=blue&down_message=Replit&down_color=orange&logo=replit&logoColor=replit&label=%23JC">
     </a>
-   <a href="https://wa.me/968356005)">
+   <a href="https://wa.me/968356005">
    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjavier-ignacio-catalan-penaloza-21371255%2F%3ForiginalSubdomain%3Dcl&up_message=%23JC&up_color=blue&down_message=WhatsApp&down_color=green&logo=WhatsApp&logoColor=WhatsApp&label=%23JC">
     </a>
 

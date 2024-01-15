@@ -3,7 +3,7 @@
   </div>
 
 <div id="header" align="center">
-  <img src="https://academia.vfitmx.com/hosted/images/dd/102107260a4738bee456c8845417fd/Linea-naranja.png" width="400" />
+  <img src="https://www.pngmart.com/files/23/Green-Line-PNG-HD.png" width="400" />
   </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>

@@ -2,19 +2,15 @@
   <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="1000" />
   </div>
 <p align="center">
-  <a href="https://github.com/JavierCatalanP">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Javier Catalán" /></a>
-</p>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/JavierCatalanP/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Iniciando%20el%20camino%20del%20desarrollador%20;Experiencia%20en%20Ingeneria%20de%20Software%20y%20mejoras%20continuas;Soy%20Javier%20Catalán,%20teng10%37años%20&font=Fira%20Code&center=true&width=440&height=45&color=238636&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
 <div id="header" align="center">
   <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="1000" />
   </div>
+    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/JavierCatalanP/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Iniciando%20el%20camino%20del%20desarrollador%20;Experiencia%20en%20Ingeneria%20de%20Software%20y%20mejoras%20continuas;Soy%20Javier%20Catalán,%20tengo20%3720%años%20&font=Fira%20Code&center=true&width=440&height=45&color=238636&vCenter=true&pause=1000&size=22" /></a>
+</p>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
   <h3 align="center">¡Saludos! <br/><br/>

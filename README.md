@@ -7,14 +7,14 @@
   </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
-  <h3 align="center">¡Saludos! <br/>
+  <h3 align="center">¡Saludos! <br/><br/>
 Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
 
 Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y fortalecer mi portafolio con material y proyectos desde lo más básico hasta superar mis límites cada día.
 
 Me apasiona la arquitectura y la ingeniería de software, buscando entender procesos y contribuir con mejoras continuas alineadas con la lógica de negocio y objetivos corporativos.
 
-Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨ <br/><br/>
+Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨ <br/><br/>
 ¡Vamos por más!
   </h3>
 <div id="badges" align="center">

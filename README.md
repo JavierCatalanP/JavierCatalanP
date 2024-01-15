@@ -41,20 +41,10 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
 <div id="header" align="center">
 <img src="https://www.nicepng.com/png/full/124-1240056_neon-line-png.png" width="250" />
 </div>
-
-### Hi there 👋
-
-<!--
-**JavierCatalanP/JavierCatalanP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Acerca de mí 👋
+- 🔭 Actualmente estoy trabajando en una empresa multinacional
+- 🌱 Actualmente estoy aprendiendo Python 
+- 📫 Puedes contactarme **javier.catalan@section.cl**
+- 😄 Como meta 2025  es crear [Section.cl] (https://section.cl/)
+- ⚡ Como dato curioso, tengo vocación hacia la docencia

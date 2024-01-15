@@ -11,12 +11,17 @@
   </a>
 
   <a href="https://www.twitch.tv/javiercatalanp">
-  <img alt="Twitch Status" src="https://img.shields.io/twitch/status/javiercatalanp">
+  <img alt="Twitch" src="https://img.shields.io/twitch/status/javiercatalanp">
   </a>
 
    <a href="https://discord.com/channels/1196281298101211226/1196281298680021233">
   <img alt="Discord" src="https://img.shields.io/discord/1196281298101211226?logo=discord&label=Canal%20Discord&labelColor=white&color=white">
       </a>
+
+  <a href="https://replit.com/@JavierCatalan">
+  <img alt="Replit" src="https://img.shields.io/website?url=https%3A%2F%2Freplit.com%2F%40JavierCatalan&up_message=Replit%20-%20My%20Repls%20&up_color=orange&down_message=My%20Repls&logo=replit&logoColor=replit">
+    </a>
+
 </div>
 
 ### Hi there 👋

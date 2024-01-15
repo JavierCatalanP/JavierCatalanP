@@ -14,8 +14,8 @@ Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y 
 
 Me apasiona la arquitectura y la ingeniería de software, buscando entender procesos y contribuir con mejoras continuas alineadas con la lógica de negocio y objetivos corporativos.
 
-Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨ <br/><br/>
-¡Vamos por más!
+Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. <br/><br/>
+✨¡Vamos por más - #JC !✨
   </h3>
 <div id="badges" align="center">
   <a href="https://twitter.com/Jc_Javier_c">

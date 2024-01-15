@@ -71,7 +71,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/tree/master/icons/oracle" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle.eps" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
@@ -81,5 +81,5 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 
-
+https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg
 </div>

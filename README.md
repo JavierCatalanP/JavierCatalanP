@@ -3,8 +3,8 @@
   <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="1000" />
   </div>
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/JavierCatalanP/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Iniciando%20el%20camino%20del%20desarrollo%20;Experiencia%20en%20Ingeneria%20de%20Software%20y%20mejoras%20continuas;Soy%20Javier%20Catalán,%20tengo20%3720%años%20&font=Fira%20Code&center=true&width=440&height=45&color=238636&-true&pause=1000&size=24" /></a>
+  <a id="header" align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hola%20Githbut%20Estoy%20iniciando%20el%20desarrollo%20web%20;Experiencia%20en%20Ingeneria%20de%20Software%20y%20mejoras%20continuas;Soy%20Javier%20Catalán,%20tengo20%3720%años%20&font=Fira%20Code&center=true&width=440&height=45&color=238636&-true&pause=1000&size=24" /></a>
 </p>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>

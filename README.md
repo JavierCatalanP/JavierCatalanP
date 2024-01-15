@@ -45,8 +45,7 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
 ---
 ### Acerca de mí 👋
 - 🔭 Actualmente estoy trabajando en una empresa multinacional
-- ![image](https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/41fc5bd3-6502-4e98-a240-c16d8e0c495f)
- Actualmente estoy aprendiendo Python 
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/41fc5bd3-6502-4e98-a240-c16d8e0c495f" width="40" /> Actualmente estoy aprendiendo Python 
 - 📫 Puedes contactarme **javier.catalan@section.cl**
 - 😄 Como meta 2025  es crear (Section.cl) [https://section.cl/]
 - ⚡ Como dato curioso, tengo vocación hacia la docencia

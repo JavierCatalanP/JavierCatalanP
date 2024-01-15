@@ -84,6 +84,11 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+<img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+<img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+
+
+
 
 
 </div>

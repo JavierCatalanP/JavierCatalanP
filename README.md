@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://section.cl/jc.png" width="400" />
+  <img src="https://section.cl/1.png" width="400" />
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
   <h3 align="center">Como objetivo planteado a fines del 2023 fue comenzar profesionalmente y con mucha autodiciplica el camino del mundo de la programación. Por esta razón, pretento adquirir nuevos conocimientos, retomar los habitos de estudios para poder  darle fuerza a este portafolio, creando material de estudios  y proyectos desde lo más basico hasta ir superando día a día mis propios limites. 

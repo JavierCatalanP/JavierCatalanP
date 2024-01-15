@@ -1,9 +1,5 @@
 <div id="header" align="center">
-  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-sante-vert.png" width="200" />
-  </div>
-
-<div id="header" align="center">
-  <img src="https://tse3.mm.bing.net/th?id=OIP.MKf1m3TkJKiGCiZgwqJdAAHaCv&pid=Api&P=0&h=180" width="500" />
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="500" />
   </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>

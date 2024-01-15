@@ -89,10 +89,10 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierCatalanP&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierCatalanP&show_icons=true&theme=radical)
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)
 </br>
 
 </div> 

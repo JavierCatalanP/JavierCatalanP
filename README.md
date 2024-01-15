@@ -85,7 +85,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 
 ---
 ### Acerca de mí 👋
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP &theme-onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme-onedark)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierCatalanP&show_icons=true&theme=radical)
 

@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="500" />
+  <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" width="800" />
   </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>

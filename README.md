@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://section.cl/1.png" width="400" />
   </div>
----
+
+<div id="header" align="center">
+  <img src="https://academia.vfitmx.com/hosted/images/dd/102107260a4738bee456c8845417fd/Linea-naranja.png" width="400" />
+  </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
   <h3 align="center">¡Saludos! Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.

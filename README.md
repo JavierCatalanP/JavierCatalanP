@@ -77,13 +77,13 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://bpm-expo.com/wp-content/uploads/2021/05/logo-vertical.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 
 
 </div>

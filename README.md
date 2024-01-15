@@ -55,7 +55,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/e8226e5c-8e1e-426d-8181-e865d5520a3c" width="20" />   Como dato curioso, tengo vocaci√≥n hacia la docencia.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/42fb4ac0-3f1d-49ed-abaa-6baf08e4860e" width="20" />   Amante del deporte.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/7d4164a3-3ded-4c2c-bff4-b5260f374567" width="20" />   Equipo Favorito, Selecci√≥n Chilena.
-- - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**.
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**.
 ---
 <div align="left">
 <h3> <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20" /> Lenguajes con los que he interactuado:</h3>
@@ -65,8 +65,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
-<img src=" " title="HTML5" alt="HTML" width="50" height="50"/&nbsp;
-</div>
+
 
 <h3> <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20" />Herramientas y Software que uso habitualmente:</h3>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;

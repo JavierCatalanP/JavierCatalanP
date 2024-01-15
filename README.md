@@ -15,7 +15,7 @@
   </a>
 
    <a href="https://discord.com/channels/1196281298101211226/1196281298680021233">
-  <img alt="Discord" src="https://img.shields.io/discord/1196281298101211226?logo=discord&logoColor=yellow&label=Canal%20Discord">
+  <img alt="Discord" src="https://img.shields.io/discord/1196281298101211226?logo=discord&label=Canal%20Discord&labelColor=white&color=white">
       </a>
 </div>
 

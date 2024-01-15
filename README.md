@@ -1,9 +1,7 @@
 <div id="header" align="center">
   <img src="https://section.cl/1.png" width="400" />
   </div>
-<div id="header" align="center">
-<img src="https://images.vexels.com/media/users/3/132476/isolated/preview/ee7ac6aaabc5ff5cede4e1ac3d4e30b1-divisor-de-puntos-de-linea-de-borde-pequeno.png" width="450" />
-</div>
+---
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
   <h3 align="center">¡Saludos! Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.

@@ -1,5 +1,6 @@
 <div id="header" align="cebter">
   <img src="https://section.cl/jc.png" width="500" />
+ <img src="http://1.bp.blogspot.com/-_BkS10FxGZ4/ViKudkcDYrI/AAAAAAAAC00/9qlpmq9F-P0/s1600/heartbeat_2642893b.jpg" width="100" />
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
   <h3 align="center">Como objetivo planteado a fines del 2023 fue comenzar profesionalmente y con mucha autodiciplica el camino del mundo de la programación. Por esta razón, pretento adquirir nuevos conocimientos, retomar los habitos de estudios para poder  darle fuerza a este portafolio, creando material de estudios  y proyectos desde lo más basico hasta ir superando día a día mis propios limites. 
     Soy apacionado por la arquitectura  y la ingeneria de software, entender los procesos, y poder contribuir con entregas de mejoras continuas en base logica de negocio y objetivos corporativos.     

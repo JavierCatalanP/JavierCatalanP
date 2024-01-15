@@ -84,7 +84,11 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzÃ
 <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 
 ---
-### Acerca de mÃ­ ğŸ‘‹
+<h3> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h3>
+</br>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+</div> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme-onedark)](https://git.io/streak-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierCatalanP&show_icons=true&theme=radical)
@@ -93,7 +97,5 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzÃ
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</div>  
+ 
 

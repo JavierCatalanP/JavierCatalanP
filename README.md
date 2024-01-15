@@ -10,7 +10,7 @@
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FJc_Javier_c">
   </a>
 
-  <a href="https://img.shields.io/twitch/status/javiercatalanp">
+  <a href="[https://img.shields.io/twitch/status/javiercatalanp](https://www.twitch.tv/javiercatalanp)">
   <img alt="Twitch Status" src="https://img.shields.io/twitch/status/javiercatalanp">
   </a>
 

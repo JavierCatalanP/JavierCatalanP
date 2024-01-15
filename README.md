@@ -14,7 +14,7 @@ Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y 
 
 Me apasiona la arquitectura y la ingeniería de software, buscando entender procesos y contribuir con mejoras continuas alineadas con la lógica de negocio y objetivos corporativos.
 
-Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨ <br/>
+Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventura que comenzó en enero de 2024. ✨ #JC ✨ <br/><br/>
 ¡Vamos por más!
   </h3>
 <div id="badges" align="center">

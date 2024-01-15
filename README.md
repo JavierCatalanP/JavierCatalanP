@@ -7,7 +7,8 @@
   </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
-  <h3 align="center">¡Saludos! Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
+  <h3 align="center">¡Saludos!
+Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
 
 Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y fortalecer mi portafolio con material y proyectos desde lo más básico hasta superar mis límites cada día.
 

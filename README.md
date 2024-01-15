@@ -1,4 +1,4 @@
-![image](https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5a6cf479-9601-47b3-9515-4b6656efa3ed)<div id="header" align="center">
+<div id="header" align="center">
   <img src="https://section.cl/1.png" width="400" />
   </div>
 <div id="header" align="center">
@@ -42,6 +42,7 @@ Espero que JavierCatalanP/JavierCatalanP cobre fuerza en esta emocionante aventu
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Instagram&up_color=yellow&down_message=Instagram&down_color=blue&logo=instagram&logoColor=TWITTER&label=%23JC&labelColor=Instagram&color=pink">
      </a>
 </div>
+
 ---
 ### Acerca de mí 👋
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" /> Actualmente estoy trabajando en una empresa multinacional

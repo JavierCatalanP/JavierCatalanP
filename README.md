@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-sante-vert.png" width="400" />
+  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-sante-vert.png" width="200" />
   </div>
 
 <div id="header" align="center">

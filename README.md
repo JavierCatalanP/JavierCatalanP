@@ -2,7 +2,7 @@
   <img src="https://section.cl/1.png" width="400" />
   </div>
 <div id="header" align="center">
-<img src="[https://www.nicepng.com/png/full/124-1240056_neon-line-png.pn](https://images.vexels.com/media/users/3/132476/isolated/preview/ee7ac6aaabc5ff5cede4e1ac3d4e30b1-divisor-de-puntos-de-linea-de-borde-pequeno.png" width="450" />
+<img src="https://images.vexels.com/media/users/3/132476/isolated/preview/ee7ac6aaabc5ff5cede4e1ac3d4e30b1-divisor-de-puntos-de-linea-de-borde-pequeno.png" width="450" />
 </div>
  
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>

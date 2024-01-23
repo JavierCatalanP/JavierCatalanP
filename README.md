@@ -111,7 +111,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <div align="center">
  <a href="https://section.cl/"><img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="100" height="100"/&nbsp;/> 
  </br>
- <a href="https://experienciavivo.duoc.cl/titulados"><img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="100" height="300"/&nbsp;/> 
+ <a href="https://experienciavivo.duoc.cl/titulados"><img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="300" height="100"/&nbsp;/> 
 
 </div>
 

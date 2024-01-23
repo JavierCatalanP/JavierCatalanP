@@ -49,8 +49,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 </div>
 
 
-<div align="center">
- <h3>Acerca de mí 👋 <h3/>
+<div>
+ <h1>Acerca de mí 👋 </h1>
   <div align="legend">
  - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" />   Actualmente trabajo en una empresa multinacional en Chile.
  - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/a8bff475-d3a6-4ea5-870c-91df6b2636e5" width="20" />   Como meta 2024 inicie el camino de la programación.

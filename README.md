@@ -105,7 +105,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 
 ---
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22%2B20+a%C3%B1os+de+trayectorial%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=1CEEFF&random=false&width=435&lines=print(%22M%C3%A1s+de+20+a%C3%B1os+de+experienca;Laboral)" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -124,8 +124,9 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
   
  </br>
 </div>
-
+---
 <div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=1CEEFF&random=false&width=435&lines=print(%22Trayectoria+acad%C3%A9mica%22);Laboral)" alt="Typing SVG" /></a>
  <a>     <img src="https://lcch.cl/wp-content/uploads/2022/09/09-logo-nuevo_LCCH-1.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
  <a>     <img src="https://colegioicel.cl/wp-content/uploads/2023/06/logo-icel-blanco-1-768x256.png" title="HTML5" alt="HTML" width="100" height="50"/&nbsp;/></a>
  <a>     <img src="https://www.circulodeespecialistas.cl/sites/all/themes/ces2020/__img/agenda-formacion/aiep.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>

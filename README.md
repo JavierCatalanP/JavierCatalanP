@@ -104,8 +104,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 
 ---
 
-<div id="badges" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Egreado+2021%22)" alt="Typing SVG" /></a>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Egreado+2021%22)" alt="Typing SVG" /></a>
  <a href="https://experienciavivo.duoc.cl/titulados">
  <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
  </a>

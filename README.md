@@ -105,7 +105,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 
 ---
 <div align="center">
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22%2B20+a%C3%B1os+de+trayectorial%22)" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">

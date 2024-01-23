@@ -17,7 +17,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <br/>
 </div>
 
----
+
 
 <div id="badges" align="center">
   <a href="https://twitter.com/Jc_Javier_c">
@@ -48,6 +48,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
      </a>
 </div>
 
+---
 
 <div align="center">
  <h2>Acerca de m√≠ üëã </h2>
@@ -64,6 +65,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**.
 
 
+---
 
 <div align="center">
  <h1> Lenguajes con los que he interactuado <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/></h1>
@@ -77,6 +79,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/460319ff-adcb-4cf7-903d-5aa45ad6fd78" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
  </div>
 </br>
+
+---
 
 <div align="center">
  <h1> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h1>
@@ -98,6 +102,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  </div>
 </br>
 
+---
+
 <div id="badges" align="center">
  <h1>Ingeniero en Inform√°tica & Analista Programador Computacional</h1>
  <a href="https://experienciavivo.duoc.cl/titulados">
@@ -110,6 +116,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 </div>
 
 </br>
+
+---
 
 <div align="center">
  <h1> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h1>

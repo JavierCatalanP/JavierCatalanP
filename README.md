@@ -93,9 +93,9 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <a href="https://experienciavivo.duoc.cl/titulados">
 <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
 </a>
-<h2>CV</h2>
-<a href=" https://section.cl/">
-<img src="https://www.orientacionparaelempleo.com/wp-content/uploads/2016/02/graduate23-300x300.png" title="HTML5" alt="HTML" width="100" height="100"/&nbsp;/> 
+<h2>Trayectoria Laboral</h2>
+<a href="https://section.cl/">
+<img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="100" height="100"/&nbsp;/> 
 </a>
 
  

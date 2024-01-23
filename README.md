@@ -45,12 +45,13 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdiscord.com%2Fchannels%2F1196281298101211226%2F1196281298680021233&up_message=Instagram&up_color=yellow&down_message=Instagram&down_color=blue&logo=instagram&logoColor=TWITTER&label=%23JC&labelColor=Instagram&color=pink">
      </a>
 </div>
+</div>
 
 ---
 
 <div align="center">
- <<h2 style="color: #1CEEFF;"> Acerca de mí 👋 </h2>
-</div>
+<h2 style="color: #1CEEFF;"> Acerca de mí 👋 </h2>
+
 </div>
 
 

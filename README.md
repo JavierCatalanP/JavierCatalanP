@@ -6,7 +6,7 @@
   </div>
 
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>
-  <h3 align="center">¡Saludos! <br/><br/>
+  <h3 align="center"><h2>¡Saludos!<h2/><br/><br/>
 Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
 
 Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y fortalecer mi portafolio con material y proyectos desde lo más básico hasta superar mis límites cada día.
@@ -47,7 +47,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 </div>
 
 ---
-### Acerca de mí 👋
+<div align="center">
+ <h2>Acerca de mí 👋 <h2/>
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" />   Actualmente trabajo en una empresa multinacional en Chile.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/a8bff475-d3a6-4ea5-870c-91df6b2636e5" width="20" />   Como meta 2024 inicie el camino de la programación.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" />   Como meta 2025  será crear [SECTION.CL](https://section.cl/).
@@ -55,9 +56,10 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/42fb4ac0-3f1d-49ed-abaa-6baf08e4860e" width="20" />   Amante del deporte.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/7d4164a3-3ded-4c2c-bff4-b5260f374567" width="20" />   Equipo Favorito, Selección Chilena.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**.
+ </div>
 ---
-<div align="left">
-<h3> Lenguajes con los que he interactuado  <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/> </h3>
+<div align="center">
+<h2> Lenguajes con los que he interactuado  <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/> </h2>
 </br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="50" height="50"/&nbsp;/>
@@ -66,10 +68,10 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/460319ff-adcb-4cf7-903d-5aa45ad6fd78" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-
+</div>
 ---
-
-<h3> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h3>
+<div align="center">
+<h2> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h2>
 </br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
@@ -85,7 +87,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-
+</div>
 ---
 
 <div id="badges" align="center">
@@ -103,9 +105,11 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 </div>
 
 ---
-<h3> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h3>
-</br>
+
+
 <div align="center">
+<h2> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h2>
+ </br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 ![](https://github-contributor-stats.vercel.app/api?username=JavierCatalanP&limit=5&theme=dark&combine_all_yearly_contributions=true)

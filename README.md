@@ -111,7 +111,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <div align="center">
  <a href="https://section.cl/"><img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="70" height="70"/&nbsp;/> 
  </br>
- <a href="https://experienciavivo.duoc.cl/titulados"><img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="300" height="100"/&nbsp;/> 
+ <a href="https://experienciavivo.duoc.cl/titulados"><img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="4000" height="130"/&nbsp;/> 
 
 </div>
 
@@ -119,7 +119,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Mis+Indicadores+en+Github%22)" alt="Typing SVG" /></a>
- <h1><img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h1>
+ <a><img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </a>                                                                           
   </br>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
  

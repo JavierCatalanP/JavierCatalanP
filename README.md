@@ -17,6 +17,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <br/>
 </div>
 
+---
 
 <div id="badges" align="center">
   <a href="https://twitter.com/Jc_Javier_c">

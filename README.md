@@ -99,12 +99,18 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)
 </div> 
-- <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="Duoc" alt="Duoc" width="100" height="100"/&nbsp;/>
+
 
 ---
 
+<div id="badges" align="center">
+    <a href="https://experienciavivo.duoc.cl/titulados">
+    <img alt="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="300" height="300"/&nbsp;/>
+     </a>
 
+</div>
 
+---
 
 
 

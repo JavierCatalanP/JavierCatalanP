@@ -100,6 +100,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
  <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
  </div>
+  </div>
 </br>
 
 ---

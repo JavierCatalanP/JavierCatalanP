@@ -48,7 +48,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzÃ
 ---
 
 <div align="center">
-<h1 color="#1CEEFF" font-weight="bold"> Acerca de mÃ­ ğŸ‘‹ </h1>
+<h1> Acerca de mÃ­ ğŸ‘‹ </h1>
 
 </div>
 
@@ -80,7 +80,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzÃ
 ---
 
 <div align="center">
- <h1  style="color: #1CEEFF;"> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h1>
+ <h1> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h1>
  </br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
@@ -102,7 +102,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzÃ
 ---
 
 <div id="badges" align="center">
- <h1  style="color: #1CEEFF;">Ingeniero en InformÃ¡tica & Analista Programador Computacional</h1>
+ <h1>Ingeniero en InformÃ¡tica & Analista Programador Computacional</h1>
  <a href="https://experienciavivo.duoc.cl/titulados">
  <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
  </a>
@@ -117,7 +117,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzÃ
 ---
 
 <div align="center">
- <h1 style="color: #1CEEFF;"> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h1>
+ <h1> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h1>
   </br>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
  

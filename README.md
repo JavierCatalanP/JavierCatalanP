@@ -49,7 +49,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 ---
 
 <div align="center">
-<h1> Acerca de m√≠ üëã </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Acerca+de+m%C3%AD+%F0%9F%91%8B%22)" alt="Typing SVG" /></a>
 
 </div>
 
@@ -66,7 +66,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 ---
 
 <div align="center">
- <h1> Lenguajes con los que he interactuado <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/></h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Lenguajes++interactuados%22)" alt="Typing SVG" /></a>
+ <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/></h1>
  </br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="50" height="50"/&nbsp;/>
@@ -81,7 +82,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 ---
 
 <div align="center">
- <h1> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Herramientas+habituales%22)" alt="Typing SVG" /></a>
+ <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h1>
  </br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
@@ -103,11 +105,11 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 ---
 
 <div id="badges" align="center">
- <h1>Ingeniero en Inform√°tica & Analista Programador Computacional</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Egreado+2021%22)" alt="Typing SVG" /></a>
  <a href="https://experienciavivo.duoc.cl/titulados">
  <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
  </a>
- <h1  style="color: #1CEEFF;">Trayectoria Laboral</h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22M%C3%A1s+de+20+a%C3%B1os+Laborando%22)" alt="Typing SVG" /></a>
  <a href="https://section.cl/">
  <img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="100" height="100"/&nbsp;/> 
  </a>
@@ -118,7 +120,8 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 ---
 
 <div align="center">
- <h1> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Mis+Indicadores+en+Github%22)" alt="Typing SVG" /></a>
+ <h1><img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h1>
   </br>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
  

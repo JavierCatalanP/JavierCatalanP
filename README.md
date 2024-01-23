@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-  <img src="http://jqsystem.net/wp-content/uploads/2018/04/desarrollo-de-sofware.png" width="500" />
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=38C2FF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
+  <img src="http://jqsystem.net/wp-content/uploads/2018/04/desarrollo-de-sofware.png" width="500" /></br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=38C2FF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
   </div>
 
   <h1 align="center" Hola 👋, Soy Javier Catalán, ¡Un gusto!</h1>

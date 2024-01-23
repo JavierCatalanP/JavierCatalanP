@@ -49,7 +49,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 
 
 <div align="center">
- <h1>Acerca de mí 👋 </h1>
+ <h2>Acerca de mí 👋 </h2>
 </div>
 </div>
 

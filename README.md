@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  
-   <img src="https://section.cl/1.png" width="800" /></br>
+  <img src="https://section.cl/1.png" width="800" /></br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
 
 
@@ -49,9 +49,9 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 </div>
 
 
-<div>
+<div align="center">
  <h1>Acerca de mí 👋 </h1>
-  <div align="legend">
+  <div>
  - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" />   Actualmente trabajo en una empresa multinacional en Chile.
  - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/a8bff475-d3a6-4ea5-870c-91df6b2636e5" width="20" />   Como meta 2024 inicie el camino de la programación.
  - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" />   Como meta 2025  será crear [SECTION.CL](https://section.cl/).
@@ -63,66 +63,63 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 </div>
 
 <div align="center">
-<h3> Lenguajes con los que he interactuado  <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/> </h3>
+ <h1> Lenguajes con los que he interactuado <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/></h1>
+ </br>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/460319ff-adcb-4cf7-903d-5aa45ad6fd78" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ </div>
 </br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/460319ff-adcb-4cf7-903d-5aa45ad6fd78" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-</div>
----
+
 <div align="center">
-<h2> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h2>
+ <h1> Herramientas y Software que uso habitualmente <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h1>
+ </br>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://bpm-expo.com/wp-content/uploads/2021/05/logo-vertical.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ </div>
 </br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://bpm-expo.com/wp-content/uploads/2021/05/logo-vertical.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-<img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
-</div>
----
 
 <div id="badges" align="center">
-
-<h2>Ingeniero en Informática & Analista Programador Computacional</h2>
-<a href="https://experienciavivo.duoc.cl/titulados">
-<img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
-</a>
-<h2>Trayectoria Laboral</h2>
-<a href="https://section.cl/">
-<img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="100" height="100"/&nbsp;/> 
-</a>
-
- 
+ <h1>Ingeniero en Informática & Analista Programador Computacional</h1>
+ <a href="https://experienciavivo.duoc.cl/titulados">
+ <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
+ </a>
+ <h2>Trayectoria Laboral</h2>
+ <a href="https://section.cl/">
+ <img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="100" height="100"/&nbsp;/> 
+ </a>
 </div>
 
----
-
+</br>
 
 <div align="center">
-<h2> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h2>
+ <h1> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h1>
+  </br>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+ 
+ ![](https://github-contributor-stats.vercel.app/api?username=JavierCatalanP&limit=5&theme=dark&combine_all_yearly_contributions=true)
  </br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-
-![](https://github-contributor-stats.vercel.app/api?username=JavierCatalanP&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierCatalanP&show_icons=true&theme=radical)
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierCatalanP&show_icons=true&theme=radical)
+ </br>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierCatalanP&layout=compact)
 </div> 
 
 

@@ -127,11 +127,11 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 
 <div align="center">
  <a>     <img src="https://lcch.cl/wp-content/uploads/2022/09/09-logo-nuevo_LCCH-1.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
- <a>     <img src="https://colegioicel.cl/wp-content/uploads/2023/06/logo-icel-blanco-1-768x256.png" title="HTML5" alt="HTML" width="80" height="50"/&nbsp;/></a>
- <a>     <img src="https://www.circulodeespecialistas.cl/sites/all/themes/ces2020/__img/agenda-formacion/aiep.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>
- <a>     <img src="https://anop.cl/wp-content/uploads/2015/06/anop-convenio-28-la-araucana.png" title="HTML5" alt="HTML" width="200" height="100"/&nbsp;/></a>
- <a href="https://experienciavivo.duoc.cl/titulados">   <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/> 
- <a>     <img src="https://companieslogo.com/img/orig/UDMY-bcb00a64.png?t=1635531363" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
+ <a>     <img src="https://colegioicel.cl/wp-content/uploads/2023/06/logo-icel-blanco-1-768x256.png" title="HTML5" alt="HTML" width="100" height="50"/&nbsp;/></a>
+ <a>     <img src="https://www.circulodeespecialistas.cl/sites/all/themes/ces2020/__img/agenda-formacion/aiep.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
+ <a>     <img src="https://anop.cl/wp-content/uploads/2015/06/anop-convenio-28-la-araucana.png" title="HTML5" alt="HTML" width="50" height="100"/&nbsp;/></a>
+ <a href="https://experienciavivo.duoc.cl/titulados">  <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/> 
+ <a>     <img src="https://brandslogos.com/wp-content/uploads/images/large/udemy-logo-1.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
 </div>
 
 ---

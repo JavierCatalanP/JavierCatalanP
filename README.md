@@ -86,6 +86,14 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
 
 ---
+
+<div id="badges" align="center">
+<a href="https://experienciavivo.duoc.cl/titulados">
+<img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
+</a>
+</div>
+
+---
 <h3> Seguimiento de mi ruta <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </h3>
 </br>
 <div align="center">
@@ -101,16 +109,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 </div> 
 
 
----
 
-<div id="badges" align="center">
-    <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="300" height="300"/&nbsp;/> <a href="https://experienciavivo.duoc.cl/titulados">
-     </a>
-
-
-</div>
-
----
 
 
 

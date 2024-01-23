@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/011/153/368/original/3d-website-developer-working-on-laptop-illustration-png.png" width="1000" />
+  <img src="https://static.vecteezy.com/system/resources/previews/011/153/368/original/3d-website-developer-working-on-laptop-illustration-png.png" width="500" />
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=38C2FF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
   </div>
 

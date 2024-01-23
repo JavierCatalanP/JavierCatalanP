@@ -4,6 +4,7 @@
   <img src="https://section.cl/1.png" width="800" /></br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
 
+¡Hola!
 Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
 
 Mi enfoque incluye adquirir nuevos conocimientos, retomar hábitos de estudio y fortalecer mi portafolio con material y proyectos desde lo más básico hasta superar mis límites cada día.

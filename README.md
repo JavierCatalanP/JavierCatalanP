@@ -15,8 +15,6 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 <br/>
 </div>
 
-
-
 <div id="badges" align="center">
   <a href="https://twitter.com/Jc_Javier_c">
   <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FJc_Javier_c">
@@ -50,7 +48,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 ---
 
 <div align="center">
-<h2 style="color: #1CEEFF;"> Acerca de mí 👋 </h2>
+<h2 style="color: #1CEEFF; font-weight: bold;"> Acerca de mí 👋 </h2>
 
 </div>
 

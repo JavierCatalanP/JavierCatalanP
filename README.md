@@ -49,7 +49,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 ---
 
 <div align="center">
- <h2  style="color:#1CEEFF">Acerca de mí 👋 </h2>
+ <<h2 style="color: #1CEEFF;"> Acerca de mí 👋 </h2>
 </div>
 </div>
 

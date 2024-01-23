@@ -115,16 +115,23 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <a>     <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/></a>
  <a>     <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/></a>
  <a>     <img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
- <a>     <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="60" height="50"/&nbsp;/></a>
- <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/></a>
+ <a>     <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="100" height="50"/&nbsp;/></a>
+ <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="100" height="50"/&nbsp;/></a>
  <a>     <img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></br>
  <a>     <img src="http://queestudiarenchile.com/wp-content/uploads/2016/05/DUOC-UC.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>
  <a>     <img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>
  <a>     <img src="https://www.carozzimeencanta.cl/assets/img/logo_red.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>
   
  </br>
- <a href="https://experienciavivo.duoc.cl/titulados"><img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="300" height="130"/&nbsp;/> 
+</div>
 
+<div align="center">
+ <a>     <img src="https://lcch.cl/wp-content/uploads/2022/09/09-logo-nuevo_LCCH-1.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
+ <a>     <img src="https://colegioicel.cl/wp-content/uploads/2023/06/logo-icel-blanco-1-768x256.png" title="HTML5" alt="HTML" width="80" height="50"/&nbsp;/></a>
+ <a>     <img src="https://www.circulodeespecialistas.cl/sites/all/themes/ces2020/__img/agenda-formacion/aiep.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>
+ <a>     <img src="https://anop.cl/wp-content/uploads/2015/06/anop-convenio-28-la-araucana.png" title="HTML5" alt="HTML" width="200" height="100"/&nbsp;/></a>
+ <a href="https://experienciavivo.duoc.cl/titulados">   <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/> 
+ <a>     <img src="https://companieslogo.com/img/orig/UDMY-bcb00a64.png?t=1635531363" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
 </div>
 
 ---

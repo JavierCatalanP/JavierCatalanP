@@ -88,10 +88,10 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 ---
 
 <div id="badges" align="center">
-<a href="https://experienciavivo.duoc.cl/titulados"> Analista Programador Comutacional & Ingeneria en Inform√°tica 
+<a href="https://experienciavivo.duoc.cl/titulados">
 <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="350" height="250"/&nbsp;/> 
 </a>
-<a href=" https://section.cl/">Curriculum Vitae
+<a href=" https://section.cl/">
 <img src="https://www.orientacionparaelempleo.com/wp-content/uploads/2016/02/graduate23-300x300.png" title="HTML5" alt="HTML" width="100" height="100"/&nbsp;/> 
 </a>
  

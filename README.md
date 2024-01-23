@@ -109,19 +109,18 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 </div>
 
 <div align="center">
- <a href="https://section.cl/"><img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
- <img src="https://section.cl/2.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://www.progestionchile.cl/wp-content/uploads/2022/07/logo-progestion-03.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
- <img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
- <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
- <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
- <img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>  </br>
- <img src="http://queestudiarenchile.com/wp-content/uploads/2016/05/DUOC-UC.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
- <img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
- <img src="https://www.carozzimeencanta.cl/assets/img/logo_red.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>
+ <a href="https://section.cl/"><img src="https://cdn-icons-png.flaticon.com/512/1853/1853256.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
+ <a><img src="https://www.progestionchile.cl/wp-content/uploads/2022/07/logo-progestion-03.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
+ <a><img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
+ <a><img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
+ <a><img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
+ <a><img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>  </a>
+ <a><img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>  </a>
+ <a><img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>  </a>
+ <a><img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>  </br>
+ <a><img src="http://queestudiarenchile.com/wp-content/uploads/2016/05/DUOC-UC.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
+ <a><img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
+ <a><img src="https://www.carozzimeencanta.cl/assets/img/logo_red.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/>  </a>
   
  </br>
  <a href="https://experienciavivo.duoc.cl/titulados"><img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="300" height="130"/&nbsp;/> 

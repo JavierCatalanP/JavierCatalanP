@@ -48,7 +48,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 ---
 
 <div align="center">
-<h2 style="color: #1CEEFF; font-weight: bold;"> Acerca de mí 👋 </h2>
+<h1 color="#1CEEFF" font-weight="bold"> Acerca de mí 👋 </h1>
 
 </div>
 
@@ -65,7 +65,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 ---
 
 <div align="center">
- <h1  style="color: #1CEEFF;"> Lenguajes con los que he interactuado <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/></h1>
+ <h1> Lenguajes con los que he interactuado <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/5b7fe9cf-d7fe-4404-a368-6b57858f6669" width="20"/></h1>
  </br>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="50" height="50"/&nbsp;/>

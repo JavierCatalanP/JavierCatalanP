@@ -85,20 +85,20 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Herramientas+habituales%22)" alt="Typing SVG" /></a>
  <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/01054260-105f-4a9c-9262-3a65663099a5" width="20"/> </h1>
  </br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://bpm-expo.com/wp-content/uploads/2021/05/logo-vertical.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://bpm-expo.com/wp-content/uploads/2021/05/logo-vertical.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="30" height="3S0"/&nbsp;/>
  </div>
   </div>
 

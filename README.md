@@ -119,7 +119,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="60" height="40"/&nbsp;/></a>
  <a>     <img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/></br>
  <a>     <img src="http://queestudiarenchile.com/wp-content/uploads/2016/05/DUOC-UC.png" title="HTML5" alt="HTML" width="160" height="40"/&nbsp;/></a>
- <a>     <img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="100" height="40"/&nbsp;/></a>
+ <a>     <img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="140" height="40"/&nbsp;/></a>
  <a>     <img src="https://www.carozzimeencanta.cl/assets/img/logo_red.png" title="HTML5" alt="HTML" width="160" height="40"/&nbsp;/></a>
   
  </br>

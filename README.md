@@ -69,13 +69,13 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Lenguajes++interactuados%22)" alt="Typing SVG" /></a>
 
  </br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/460319ff-adcb-4cf7-903d-5aa45ad6fd78" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="540"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/460319ff-adcb-4cf7-903d-5aa45ad6fd78" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
  </div>
 </br>
 
@@ -85,20 +85,20 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Herramientas+habituales%22)" alt="Typing SVG" /></a>
 
  </br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://bpm-expo.com/wp-content/uploads/2021/05/logo-vertical.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
- <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="60" height="30"/&nbsp;/>
- <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://bpm-expo.com/wp-content/uploads/2021/05/logo-vertical.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://trialsolution.co/wp-content/uploads/2021/01/StarUML-Crack-150x150.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
+ <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" title="HTML5" alt="HTML" width="60" height="40"/&nbsp;/>
+ <img src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
  </div>
   </div>
 
@@ -110,17 +110,17 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 
 <div align="center">
  <a>     <img src="https://section.cl/2.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/></a>
- <a>     <img src="https://www.progestionchile.cl/wp-content/uploads/2022/07/logo-progestion-03.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
- <a>     <img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
- <a>     <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
- <a>     <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="90" height="30"/&nbsp;/></a>
- <a>     <img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/></a>
- <a>     <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="60" height="30"/&nbsp;/></a>
- <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="60" height="30"/&nbsp;/></a>
- <a>     <img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/></br>
- <a>     <img src="http://queestudiarenchile.com/wp-content/uploads/2016/05/DUOC-UC.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
- <a>     <img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
- <a>     <img src="https://www.carozzimeencanta.cl/assets/img/logo_red.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
+ <a>     <img src="https://www.progestionchile.cl/wp-content/uploads/2022/07/logo-progestion-03.png" title="HTML5" alt="HTML" width="120" height="40"/&nbsp;/></a>
+ <a>     <img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="120" height="40"/&nbsp;/></a>
+ <a>     <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="120" height="40"/&nbsp;/></a>
+ <a>     <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="90" height="40"/&nbsp;/></a>
+ <a>     <img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/></a>
+ <a>     <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="60" height="40"/&nbsp;/></a>
+ <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="60" height="40"/&nbsp;/></a>
+ <a>     <img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/></br>
+ <a>     <img src="http://queestudiarenchile.com/wp-content/uploads/2016/05/DUOC-UC.png" title="HTML5" alt="HTML" width="120" height="40"/&nbsp;/></a>
+ <a>     <img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="120" height="40"/&nbsp;/></a>
+ <a>     <img src="https://www.carozzimeencanta.cl/assets/img/logo_red.png" title="HTML5" alt="HTML" width="120" height="40"/&nbsp;/></a>
   
  </br>
 </div>
@@ -131,19 +131,19 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  </div>
 
  <div align="center">
- <a>     <img src="https://lcch.cl/wp-content/uploads/2022/09/09-logo-nuevo_LCCH-1.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
- <a>     <img src="https://colegioicel.cl/wp-content/uploads/2023/06/logo-icel-blanco-1-768x256.png" title="HTML5" alt="HTML" width="100" height="50"/&nbsp;/></a>
- <a>     <img src="https://www.circulodeespecialistas.cl/sites/all/themes/ces2020/__img/agenda-formacion/aiep.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
- <a>     <img src="https://anop.cl/wp-content/uploads/2015/06/anop-convenio-28-la-araucana.png" title="HTML5" alt="HTML" width="70" height="50"/&nbsp;/></a>
- <a href="https://experienciavivo.duoc.cl/titulados">  <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/> 
- <a>     <img src="https://brandslogos.com/wp-content/uploads/images/large/udemy-logo-1.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
+ <a>     <img src="https://lcch.cl/wp-content/uploads/2022/09/09-logo-nuevo_LCCH-1.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/></a>
+ <a>     <img src="https://colegioicel.cl/wp-content/uploads/2023/06/logo-icel-blanco-1-768x256.png" title="HTML5" alt="HTML" width="100" height="40"/&nbsp;/></a>
+ <a>     <img src="https://www.circulodeespecialistas.cl/sites/all/themes/ces2020/__img/agenda-formacion/aiep.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/></a>
+ <a>     <img src="https://anop.cl/wp-content/uploads/2015/06/anop-convenio-28-la-araucana.png" title="HTML5" alt="HTML" width="70" height="40"/&nbsp;/></a>
+ <a href="https://experienciavivo.duoc.cl/titulados">  <img src="https://duoc.modyocdn.com/uploads/2dabafa1-87dc-4987-9218-c0b45dbe4ef0/original/logo_duoc_titulados.svg" title="HTML5" alt="HTML" width="120" height="40"/&nbsp;/> 
+ <a>     <img src="https://brandslogos.com/wp-content/uploads/images/large/udemy-logo-1.png" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/></a>
 </div>
 
 ---
 
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Mis+Indicadores+en+Github%22)" alt="Typing SVG" /></a>
- <a><img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/cc4488d6-98ce-46fd-9f29-2e42397fb7a8" width="20"/> </a>                                                                           
+                                                                         
   </br>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JavierCatalanP&theme=merko&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
  

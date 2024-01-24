@@ -113,7 +113,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <a>     <img src="https://www.progestionchile.cl/wp-content/uploads/2022/07/logo-progestion-03.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
  <a>     <img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
  <a>     <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
- <a>     <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
+ <a>     <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="90" height="30"/&nbsp;/></a>
  <a>     <img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/></a>
  <a>     <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="60" height="30"/&nbsp;/></a>
  <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="60" height="30"/&nbsp;/></a>

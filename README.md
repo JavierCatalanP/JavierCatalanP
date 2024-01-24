@@ -69,7 +69,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Lenguajes++interactuados%22)" alt="Typing SVG" /></a>
 
  </br>
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="540"/&nbsp;/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CCS" alt="CCS3" width="40" height="40"/&nbsp;/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/&nbsp;/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="HTML5" alt="HTML" width="40" height="40"/&nbsp;/>

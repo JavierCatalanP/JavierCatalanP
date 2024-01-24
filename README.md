@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  
-  <img src="https://section.cl/1.png" width="800" /></br>
+  <img src="https://section.cl/1.png" width="600" /></br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
 
 Â¡Bienvenido a mi Repo de Github!</br>
@@ -111,13 +111,13 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenzÃ
 <div align="center">
  <a>     <img src="https://section.cl/2.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
  <a>     <img src="https://www.progestionchile.cl/wp-content/uploads/2022/07/logo-progestion-03.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/></a>
- <a>     <img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/></a>
- <a>     <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/></a>
- <a>     <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="150" height="50"/&nbsp;/></a>
- <a>     <img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
- <a>     <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="100" height="50"/&nbsp;/></a>
- <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="100" height="50"/&nbsp;/></a>
- <a>     <img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></br>
+ <a>     <img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
+ <a>     <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
+ <a>     <img src="https://portia.cl/wp-content/uploads/2023/02/Portia-Logo-White.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
+ <a>     <img src="http://logonoid.com/images/directv-logo.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/></a>
+ <a>     <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Movistar-Logo.png" title="HTML5" alt="HTML" width="60" height="30"/&nbsp;/></a>
+ <a>     <img src="https://club.chile-digital.com/wp-content/uploads/2017/04/logo-CCU.png" title="HTML5" alt="HTML" width="60" height="30"/&nbsp;/></a>
+ <a>     <img src="https://www.tutrabajolatino.com/wp-content/uploads/2019/08/1200px-Arcor_logo.svg_-700x467.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/></br>
  <a>     <img src="http://queestudiarenchile.com/wp-content/uploads/2016/05/DUOC-UC.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>
  <a>     <img src="https://www.cftestatalrm.cl/wp-content/uploads/2021/12/logo.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>
  <a>     <img src="https://www.carozzimeencanta.cl/assets/img/logo_red.png" title="HTML5" alt="HTML" width="200" height="50"/&nbsp;/></a>

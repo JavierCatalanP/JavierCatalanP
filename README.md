@@ -109,7 +109,7 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz√
 </div>
 
 <div align="center">
- <a>     <img src="https://section.cl/2.png" title="HTML5" alt="HTML" width="50" height="50"/&nbsp;/></a>
+ <a>     <img src="https://section.cl/2.png" title="HTML5" alt="HTML" width="30" height="30"/&nbsp;/></a>
  <a>     <img src="https://www.progestionchile.cl/wp-content/uploads/2022/07/logo-progestion-03.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
  <a>     <img src="https://pluspng.com/img-png/walmart-png-file-lider-walmart-png-1504.png" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>
  <a>     <img src="https://ecrgroup.cl/wp-content/uploads/2023/02/logo_header.svg" title="HTML5" alt="HTML" width="120" height="30"/&nbsp;/></a>

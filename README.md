@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  
-  <img src="https://section.cl/1.png" width="600" /></br>
+  <img src="https://section.cl/1.png" width="300" /></br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
 
 ¡Bienvenido a mi Repo de Github!</br>

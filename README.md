@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
  
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEk0fZc4Vyx4g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712846314666?e=1772064000&v=beta&t=bwQw1zP_NWonCTm-kQf_AUHBTKUiDyWai6TdbL7HWYo" width="300" /></br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEk0fZc4Vyx4g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712846314666?e=1772064000&v=beta&t=bwQw1zP_NWonCTm-kQf_AUHBTKUiDyWai6TdbL7HWYo" width="1000" /></br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E"/></a>
 
 ¡Bienvenido a mi Repo de Github!</br>
 Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.

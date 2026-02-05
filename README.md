@@ -1,7 +1,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQEk0fZc4Vyx4g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712846314666?e=1772064000&v=beta&t=bwQw1zP_NWonCTm-kQf_AUHBTKUiDyWai6TdbL7HWYo" width="1000" /></br>
  
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Hola+Mundo+desde+GITHUB+%C3%AD+%F0%9F%91%8B%22)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CEEFF&random=false&width=435&lines=print(%22Hola+Mundo+desde+GITHUB+%F0%9F%91%8B%22)" alt="Typing SVG" /></a>
 </div>
  
 

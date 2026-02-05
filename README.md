@@ -1,8 +1,8 @@
-
-<div id="header" align="center">
- 
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQEk0fZc4Vyx4g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1712846314666?e=1772064000&v=beta&t=bwQw1zP_NWonCTm-kQf_AUHBTKUiDyWai6TdbL7HWYo" width="1000" /></br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E"/></a>
+  <div id="header" align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com? font=Fira+Code&size=24&pause=500&color=1CEEFF&random=false&width=435&lines=print('Hola%2C+desde+Github');soy+%3D+%22Javier+Catal%C3%A1n+37+a%C3%B1os%22;%3Ch3%3ELes+comparto+mi+aventura+;hacia+el+mundo+;de+la+programaci%C3%B3n%3C%2Fh3%3E" alt="Typing SVG" /></a>
+
+ 
 
 ¡Bienvenido a mi Repo de Github!</br>
 Soy Ingeniero de Proyectos y Procesos con más de tres años de experiencia. A partir de finales de 2023, me propuse iniciar mi carrera profesional en programación con dedicación y autodisciplina.
@@ -56,11 +56,11 @@ Espero que este Portafolio cobre fuerza en esta emocionante aventura que comenz�
 
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/4f6252ec-ce5e-474a-85c5-5823c0fa0174" width="20" />   Actualmente trabajo en una empresa multinacional en Chile.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/a8bff475-d3a6-4ea5-870c-91df6b2636e5" width="20" />   Como meta 2024 inicie el camino de la programación.
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" />   Como meta 2025  será crear [SECTION.CL](https://section.cl/).
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/ab94447c-27a1-4967-82c0-d57010ea9afc" width="20" />   Como meta 2026 será retomar la programación [JC.CL](https://jc.cl/).
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/e8226e5c-8e1e-426d-8181-e865d5520a3c" width="20" />   Como dato curioso, tengo vocación hacia la docencia.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/42fb4ac0-3f1d-49ed-abaa-6baf08e4860e" width="20" />   Amante del deporte.
 - <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/7d4164a3-3ded-4c2c-bff4-b5260f374567" width="20" />   Equipo Favorito, Selección Chilena.
-- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **javier.catalan@section.cl**.
+- <img src="https://github.com/JavierCatalanP/JavierCatalanP/assets/137312245/fe498228-3f5c-4323-82f7-bd7be883976a" width="20" />   Puedes contactarme **ignaciocatalanp@gmail.com**.
 
 
 ---
